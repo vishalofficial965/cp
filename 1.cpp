@@ -1,5 +1,5 @@
 /*ctrl+shift+D =?repeat line
-ctrl+x delete a line
+ctrl+x delete a line fefrf
 */
 #include<iostream>
 #include <ext/pb_ds/assoc_container.hpp>
